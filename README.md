@@ -1,4 +1,18 @@
 # Docker-DoomLinux
+
+
+
+
+
+
+THIS IS BROKEN RIGHT NOW.. SORRY
+
+
+
+
+
+
+
 Create DoomLinux in a Docker Container
 
 shadlyd15 made a cool project called DoomLinux @ https://github.com/shadlyd15/DoomLinux
