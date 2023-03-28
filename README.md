@@ -9,7 +9,9 @@ To that end I have made this project to overcome this obstable.
 
 Simply install docker, clone the project git and run the following command same directory that Dockerfile is in.
 
-```sudo docker build . -t doomlinux```
+```
+sudo docker build . -t doomlinux
+```
 
 This command will create a container running debian-slim and execute shadlyd15's DoomLinux
 script.
