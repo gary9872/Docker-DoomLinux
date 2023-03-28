@@ -19,4 +19,3 @@ RUN apt-get install -y \
 	git
 RUN git clone https://github.com/shadlyd15/DoomLinux.git
 RUN /DoomLinux/DoomLinux.sh
-COPY DoomLinux.iso ./
